@@ -1,0 +1,9 @@
+# What is Backend?
+The backend is the server-side of a web application. It handles business logic, database interactions, authentication, and communicates with the frontend (client) through APIs.
+
+Client (browser/app) sends requests to the Server. The server processes requests and sends back responses. HTTP is commonly used for this communication.
+
+HTTP (Hypertext Transfer Protocol) is a protocol used for data communication on the web. It's stateless and follows a request-response model.
+
+Node.js is a runtime built on Chrome's V8 engine that lets you run JavaScript on the server.
+
